@@ -8,3 +8,12 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | Murena OS (/e/OS) | LMODroid | CalyxOS |
 | ![logo](https://image2url.com/images/1762801076703-71cb05fa-4f1f-4438-9f1c-b987b7c4623a.png) | ![logo](https://image2url.com/images/1762801136407-19c9f135-e1c3-4a47-a009-1d1d31de323f.png) | ![logo](https://image2url.com/images/1762801375603-9a297cac-3355-46cf-a57e-7082a3dcdb9c.png) |
 
+# Requirements
+- Unlocked Bootloader
+- PC or OTG with other phone (Use Bugjaeger)
+- Android Platform Tools (with installed Motorola USB driver on Windows)
+
+# How to flash?
+1. Reboot the phone to fastboot/bootloader mode
+2. Insert command "fastboot flash logo <path/to/logo.bin>"
+3. Reboot the phone
