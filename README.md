@@ -17,9 +17,9 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1762962128056-95b1fab8-57b8-4ca9-9441-f3e3566592d8.png) | ![logo](https://image2url.com/images/1762962139298-918f6e06-a940-4e65-8d89-7698f61c1db0.png) | ![logo](https://image2url.com/images/1762962165795-1147f30c-afa3-4ace-882d-ba742b03f724.png)
 
-| PixelOS (style 3) | PixelOS (style 4) |
-| --- | --- |
-| ![logo](https://image2url.com/images/1762962179558-85a372f9-9d92-4a96-a011-c6cfb92eb236.png) | ![logo](https://image2url.com/images/1762962185496-cdaf2e01-93b6-44d9-b97e-2eddf14fcf0f.png) |
+| PixelOS (style 3) | PixelOS (style 4) | Hello UI |
+| --- | --- | --- |
+| ![logo](https://image2url.com/images/1762962179558-85a372f9-9d92-4a96-a011-c6cfb92eb236.png) | ![logo](https://image2url.com/images/1762962185496-cdaf2e01-93b6-44d9-b97e-2eddf14fcf0f.png) | ![logo](https://github.com/user-attachments/assets/77904d61-e672-4faa-b443-ed054fd83ab2)
 
 # Requirements
 - Unlocked Bootloader
