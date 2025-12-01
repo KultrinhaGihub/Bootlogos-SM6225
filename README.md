@@ -43,10 +43,33 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 - PC or OTG with other phone (Use Bugjaeger)
 - Android Platform Tools (with installed Motorola USB driver on Windows)
 
-# How to flash?
+# How to flash? (PC Method)
 1. Reboot the phone to fastboot/bootloader mode
 2. Insert command to flash bootlogo
 ```bash
 fastboot flash logo <path/to/logo.bin>
 ```
 3. Reboot the phone
+
+# How to flash? (Mobile Method)
+1. download and install a ReTermimal (https://github.com/RohitKushvaha01/ReTerminal/releases)
+2. Open it until you reach this screen;
+<img width="1080" height="2400" alt="Screenshot_20251201-041431_ReTerminal" src="https://github.com/user-attachments/assets/bbb805c9-8b86-47e3-bbd0-975322c381a6" />
+3. Click no "+" and click no "Android"
+<img width="1080" height="2400" alt="Screenshot_20251201-041437_ReTerminal" src="https://github.com/user-attachments/assets/d92f2a15-023a-4ab0-b178-3e3ef9e537ac" />
+
+4. insert command
+```bash
+su
+```
+> (Note: if you are in Magisk, it will ask you on your screen, but if you are in APatch/KernelSU, you have to open the root manager, superuser and activate ReTerminal for the super user to be active)
+
+5. Enter the directory where the logo.bin is, using cd
+```bash
+cd <path/to/directory>
+```
+6. insert command to flash a bootlogo
+```bash
+dd if=<logo>.bin of=/dev/block/by-name/logo_<current slot> bs=16777216
+```
+7. reboot the phone and you will see the new bootlogo!
