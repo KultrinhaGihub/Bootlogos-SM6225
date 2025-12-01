@@ -52,13 +52,14 @@ fastboot flash logo <path/to/logo.bin>
 3. Reboot the phone
 
 # How to flash? (Mobile Method)
-1. Download and install the ReTermimal (https://github.com/RohitKushvaha01/ReTerminal/releases)
-2. Open it until you reach this screen:
+1. Download and install the ReTermimal
+[Download Here](https://github.com/RohitKushvaha01/ReTerminal/releases) - Credits to [RohitKushvaha01](https://github.com/RohitKushvaha01)
+3. Open it until you reach this screen:
 <img width="1080" height="2400" alt="Screenshot_20251201-041431_ReTerminal" src="https://github.com/user-attachments/assets/bbb805c9-8b86-47e3-bbd0-975322c381a6" />
-3. Click no "+" and click no "Android"
+4. Click no "+" and click no "Android"
 <img width="1080" height="2400" alt="Screenshot_20251201-041437_ReTerminal" src="https://github.com/user-attachments/assets/d92f2a15-023a-4ab0-b178-3e3ef9e537ac" />
 
-4. Insert command
+5. Insert command
 ```bash
 su
 ```
