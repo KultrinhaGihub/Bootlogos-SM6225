@@ -21,6 +21,23 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1762962179558-85a372f9-9d92-4a96-a011-c6cfb92eb236.png) | ![logo](https://image2url.com/images/1762962185496-cdaf2e01-93b6-44d9-b97e-2eddf14fcf0f.png) | ![logo](https://github.com/user-attachments/assets/77904d61-e672-4faa-b443-ed054fd83ab2)
 
+| Derpfest | ArrowOS | Superior Extended |
+| --- | --- | --- |
+| ![logo](https://image2url.com/images/1764568745296-7faa4145-7edf-4989-90d9-c6f46ffae177.png) | ![logo](https://image2url.com/images/1764568817254-192aed60-2d4d-47cc-8ece-a8be5f2743c3.png) | ![logo](https://image2url.com/images/1764568855769-acb1b6d0-bbd0-4558-8eea-059d38a5751e.png) |
+
+| Project Sakura | AICP (Old) | AICP (New) |
+| --- | --- | --- |
+| ![logo](https://image2url.com/images/1764568934774-9ee5b764-af35-4aa4-b2e7-40145fd25dbb.png) | ![logo](https://image2url.com/images/1764568989781-066d77fd-9d2e-4d25-befb-9825f966ca30.png) | ![logo](https://image2url.com/images/1764569041493-ee39c8d2-07ae-4bb2-9252-42b5524cba9d.png) |
+
+| Halcyon | YAAP | AfterLifeOS |
+| --- | --- | --- |
+| ![logo](https://image2url.com/images/1764569092223-b7272f67-6038-4e2e-9fbd-fa7f5271c91b.png) | ![logo](https://image2url.com/images/1764569123149-4635d3a3-4186-4265-b3c4-38eb047e6bae.png) | ![logo](https://image2url.com/images/1764569197303-008ad42e-f393-420c-8382-85a54c9e5ef0.png) |
+
+| IodéOS | Coming Soon... | Coming Soon... |
+| --- | --- | --- |
+| ![logo](https://image2url.com/images/1764569299728-5ab6a030-79b6-478d-b5ab-e27a4319b0c9.png) | ![logo](https://image2url.com/images/1764569365718-8fab748b-d287-44f1-a3b2-6bc4cde0ec84.png) | ![logo](https://image2url.com/images/1764569365718-8fab748b-d287-44f1-a3b2-6bc4cde0ec84.png) |
+
+
 # Requirements
 - Unlocked Bootloader
 - PC or OTG with other phone (Use Bugjaeger)
