@@ -35,9 +35,17 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1764569092223-b7272f67-6038-4e2e-9fbd-fa7f5271c91b.png) | ![logo](https://image2url.com/images/1764569123149-4635d3a3-4186-4265-b3c4-38eb047e6bae.png) | ![logo](https://image2url.com/images/1764569197303-008ad42e-f393-420c-8382-85a54c9e5ef0.png) |
 
-| IodéOS | Coming Soon... | Coming Soon... |
+| IodéOS | TheCloverProject | OrionOS |
 | --- | --- | --- |
-| ![logo](https://image2url.com/images/1764569299728-5ab6a030-79b6-478d-b5ab-e27a4319b0c9.png) | ![logo](https://image2url.com/images/1764569365718-8fab748b-d287-44f1-a3b2-6bc4cde0ec84.png) | ![logo](https://image2url.com/images/1764569365718-8fab748b-d287-44f1-a3b2-6bc4cde0ec84.png) |
+| ![logo](https://image2url.com/images/1764569299728-5ab6a030-79b6-478d-b5ab-e27a4319b0c9.png) | ![logo](https://image2url.com/images/1764760435320-7091d624-5c7e-4043-a2a5-8531dd191df5.png) | ![logo](https://image2url.com/images/1764760022496-9c3717dd-0162-4c30-95bf-6d725e8e3651.png) |
+
+| VoltageOS | WitAqua | MistOS |
+| --- | --- | --- |
+| ![logo](https://image2url.com/images/1764760110285-2af5d9c0-1d46-4200-b10b-f799e55445c0.png) | ![logo](https://image2url.com/images/1764760197683-14960801-0538-47c9-9ae6-f3457adbad3d.png) | ![logo](https://image2url.com/images/1764760234768-f1aba94c-c2a4-4bb0-821f-c9f64a8f320e.png) |
+
+| Avium UI | Coming Soon... | Coming Soon... |
+| --- | --- | --- |
+| ![logo](https://image2url.com/images/1764760311282-1ed9b2fd-7ff9-4056-8392-567b4f6124f9.png) | ![logo](https://image2url.com/images/1764569365718-8fab748b-d287-44f1-a3b2-6bc4cde0ec84.png) | ![logo](https://image2url.com/images/1764569365718-8fab748b-d287-44f1-a3b2-6bc4cde0ec84.png) |
 
 
 # Requirements
