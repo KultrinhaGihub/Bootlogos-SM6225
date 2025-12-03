@@ -1,4 +1,6 @@
 # Bootlogos-SM6225
+> ⚠️ : if they're just curious, And they barely know how to install a ROM they shouldn't mess with it.
+
 For some reason, this has become a hobby. This is the Bootlogos repository for the **Devon, Hawao, and Rhode**, better known as **Moto G32, G42, and G52** phones. That's all I can describe for a README. Now, let's move on to the bootlogo previews of the ROMs. ([Requirements](https://github.com/KultrinhaGihub/Bootlogos-SM6225/blob/main/README.md#requirements) and [Install (PC and Mobile Method)](https://github.com/KultrinhaGihub/Bootlogos-SM6225/blob/main/README.md#how-to-flash-pc-method))
 
 | LineageOS | Evolution X | CrDroid |
@@ -66,9 +68,13 @@ su
 ```
 > (Note: if you are in Magisk, it will ask you on your screen, but if you are in APatch/KernelSU, you have to open the root manager, superuser and activate ReTerminal for the super user to be active)
 
-5. Enter the directory where the logo.bin is, using cd
-```bash
+5. Enter the directory where the downloaded logo.bin is located, using cd
+ ```bash
 cd <path/to/directory>
+```
+> For example, if your downloaded logo.bin is in the "Download" folder of the internal storage, enter the command
+```bash
+cd /storage/emulated/0/Download
 ```
 6. Insert command to flash a bootlogo
 ```bash
