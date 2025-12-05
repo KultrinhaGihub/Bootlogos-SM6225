@@ -1,4 +1,4 @@
-# Bootlogos-SM6225
+# - Bootlogos-SM6225 -
 > ⚠️ : If you are here just out of curiosity or you barely know how to install a ROM, you should not touch it.
 
 For some reason, this has become a hobby. This is the Bootlogos repository for the **Devon, Hawao, and Rhode**, better known as **Moto G32, G42, and G52** phones. That's all I can describe for a README. Now, let's move on to the bootlogo previews of the ROMs. ([Requirements](https://github.com/KultrinhaGihub/Bootlogos-SM6225?tab=readme-ov-file#requirements) and [Install (PC and Mobile Method)](https://github.com/KultrinhaGihub/Bootlogos-SM6225?tab=readme-ov-file#how-to-flash-pc-method) for skip the previews)
@@ -15,11 +15,11 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1762823896187-05584179-21e9-4e11-9ca2-dd3cddf2038e.png) | ![logo](https://image2url.com/images/1762823888045-0de6fcd0-2e87-4d73-a4f9-37fcb1a5879c.png) | ![logo](https://image2url.com/images/1762962119663-2ae90e67-23c6-49b6-b6ec-ad948454a279.png)
 
-| InfinityX | PixelOS (style 1) | PixelOS (style 2) |
+| InfinityX | PixelOS (Style 1) | PixelOS (Style 2) |
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1762962128056-95b1fab8-57b8-4ca9-9441-f3e3566592d8.png) | ![logo](https://image2url.com/images/1762962139298-918f6e06-a940-4e65-8d89-7698f61c1db0.png) | ![logo](https://image2url.com/images/1762962165795-1147f30c-afa3-4ace-882d-ba742b03f724.png)
 
-| PixelOS (style 3) | PixelOS (style 4) | Hello UI |
+| PixelOS (Style 3) | PixelOS (Style 4) | Hello UI |
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1762962179558-85a372f9-9d92-4a96-a011-c6cfb92eb236.png) | ![logo](https://image2url.com/images/1762962185496-cdaf2e01-93b6-44d9-b97e-2eddf14fcf0f.png) | ![logo](https://github.com/user-attachments/assets/77904d61-e672-4faa-b443-ed054fd83ab2)
 
@@ -43,18 +43,18 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1764760110285-2af5d9c0-1d46-4200-b10b-f799e55445c0.png) | ![logo](https://image2url.com/images/1764760197683-14960801-0538-47c9-9ae6-f3457adbad3d.png) | ![logo](https://image2url.com/images/1764760234768-f1aba94c-c2a4-4bb0-821f-c9f64a8f320e.png) |
 
-| Avium UI | Coming Soon... | Coming Soon... |
+| Avium UI | Miku UI (Style 1) | Miku UI (Style 2) |
 | --- | --- | --- |
-| ![logo](https://image2url.com/images/1764760311282-1ed9b2fd-7ff9-4056-8392-567b4f6124f9.png) | ![logo](https://image2url.com/images/1764569365718-8fab748b-d287-44f1-a3b2-6bc4cde0ec84.png) | ![logo](https://image2url.com/images/1764569365718-8fab748b-d287-44f1-a3b2-6bc4cde0ec84.png) |
+| ![logo](https://image2url.com/images/1764760311282-1ed9b2fd-7ff9-4056-8392-567b4f6124f9.png) | ![logo](https://image2url.com/images/1764935114597-dde36762-850c-4d82-9e65-60c3a5a205cc.png) | ![logo](https://image2url.com/images/1764934921635-d2453018-f58b-426d-8dc4-1f389134184a.png) |
 
 
-# Requirements
+# - Requirements -
 - Unlocked Bootloader
 - Root (For mobile method)
 - PC or OTG with other phone (Use Bugjaeger)
 - Android Platform Tools (with installed Motorola USB driver on Windows)
 
-# How to flash? (PC Method)
+# - How to flash? (PC Method) -
 1. Reboot the phone to fastboot/bootloader mode
 2. Insert command to flash bootlogo
 ```bash
@@ -62,7 +62,7 @@ fastboot flash logo <path/to/logo.bin>
 ```
 3. Reboot the phone
 
-# How to flash? (Mobile Method)
+# - How to flash? (Mobile Method) -
 1. Download and install the ReTermimal
 [Download Here](https://github.com/RohitKushvaha01/ReTerminal/releases) - Credits to [RohitKushvaha01](https://github.com/RohitKushvaha01)
 3. Open it until you reach this screen:
