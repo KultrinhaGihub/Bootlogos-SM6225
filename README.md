@@ -1,7 +1,7 @@
 # Bootlogos-SM6225
 > ⚠️ : If you are here just out of curiosity or you barely know how to install a ROM, you should not touch it.
 
-For some reason, this has become a hobby. This is the Bootlogos repository for the **Devon, Hawao, and Rhode**, better known as **Moto G32, G42, and G52** phones. That's all I can describe for a README. Now, let's move on to the bootlogo previews of the ROMs. ([Requirements](https://github.com/KultrinhaGihub/Bootlogos-SM6225/blob/main/README.md#requirements) and [Install (PC and Mobile Method)](https://github.com/KultrinhaGihub/Bootlogos-SM6225/blob/main/README.md#how-to-flash-pc-method))
+For some reason, this has become a hobby. This is the Bootlogos repository for the **Devon, Hawao, and Rhode**, better known as **Moto G32, G42, and G52** phones. That's all I can describe for a README. Now, let's move on to the bootlogo previews of the ROMs. ([Requirements](https://github.com/KultrinhaGihub/Bootlogos-SM6225?tab=readme-ov-file#requirements) and [Install (PC and Mobile Method)](https://github.com/KultrinhaGihub/Bootlogos-SM6225?tab=readme-ov-file#how-to-flash-pc-method) for skip the previews)
 
 | LineageOS | Evolution X | CrDroid |
 | --- | --- | --- |
