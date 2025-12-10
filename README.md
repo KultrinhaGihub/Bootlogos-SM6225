@@ -35,9 +35,9 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1764569092223-b7272f67-6038-4e2e-9fbd-fa7f5271c91b.png) | ![logo](https://image2url.com/images/1764569123149-4635d3a3-4186-4265-b3c4-38eb047e6bae.png) | ![logo](https://image2url.com/images/1764569197303-008ad42e-f393-420c-8382-85a54c9e5ef0.png) |
 
-| IodéOS | TheCloverProject | OrionOS |
+| IodéOS (Style 1) | IodéOS (Style 2) | OrionOS |
 | --- | --- | --- |
-| ![logo](https://image2url.com/images/1764569299728-5ab6a030-79b6-478d-b5ab-e27a4319b0c9.png) | ![logo](https://image2url.com/images/1764760435320-7091d624-5c7e-4043-a2a5-8531dd191df5.png) | ![logo](https://image2url.com/images/1764760022496-9c3717dd-0162-4c30-95bf-6d725e8e3651.png) |
+| ![logo](https://image2url.com/images/1764569299728-5ab6a030-79b6-478d-b5ab-e27a4319b0c9.png) | ![logo](https://image2url.com/images/1765376267147-a0f07e74-ac39-4c85-9fbd-08c53592b49c.png) | ![logo](https://image2url.com/images/1764760022496-9c3717dd-0162-4c30-95bf-6d725e8e3651.png) |
 
 | VoltageOS | WitAqua | MistOS |
 | --- | --- | --- |
@@ -46,6 +46,10 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | Avium UI | Miku UI (Style 1) | Miku UI (Style 2) |
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1764760311282-1ed9b2fd-7ff9-4056-8392-567b4f6124f9.png) | ![logo](https://image2url.com/images/1764935114597-dde36762-850c-4d82-9e65-60c3a5a205cc.png) | ![logo](https://image2url.com/images/1764934921635-d2453018-f58b-426d-8dc4-1f389134184a.png) |
+
+| TheCloverProject |
+| --- |
+| ![logo](https://image2url.com/images/1764760435320-7091d624-5c7e-4043-a2a5-8531dd191df5.png) |
 
 
 # - Requirements -
