@@ -11,9 +11,14 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1762801076703-71cb05fa-4f1f-4438-9f1c-b987b7c4623a.png) | ![logo](https://image2url.com/images/1762801136407-19c9f135-e1c3-4a47-a009-1d1d31de323f.png) | ![logo](https://image2url.com/images/1762801375603-9a297cac-3355-46cf-a57e-7082a3dcdb9c.png) |
 
-| HyperOS (Style 1) | HyperOS (Style 2) | AxionAOSP
+| HyperOS (Style 1) | HyperOS (Style 2) | HyperOS (Style 3)
 | --- | --- | --- |
-| ![logo](https://image2url.com/images/1762823896187-05584179-21e9-4e11-9ca2-dd3cddf2038e.png) | ![logo](https://image2url.com/images/1762823888045-0de6fcd0-2e87-4d73-a4f9-37fcb1a5879c.png) | ![logo](https://image2url.com/images/1762962119663-2ae90e67-23c6-49b6-b6ec-ad948454a279.png)
+| ![logo](https://image2url.com/images/1762823896187-05584179-21e9-4e11-9ca2-dd3cddf2038e.png) | ![logo](https://image2url.com/images/1762823888045-0de6fcd0-2e87-4d73-a4f9-37fcb1a5879c.png) | ![logo](https://image2url.com/images/1766412841404-d006ba0d-ec43-49a0-8881-5f9aaf74d5d8.png)
+
+| HyperOS (Style 4) | HyperOS (Style 5) | AxionAOSP |
+| --- | --- | --- |
+| ![logo](https://image2url.com/images/1766412912046-649b6cca-52df-46de-b99b-0a0a3b9fa1c2.png) | ![logo](https://image2url.com/images/1766412961045-4590e37e-b4fd-42f7-b492-73dac86981cb.png) | ![logo](https://image2url.com/images/1762962119663-2ae90e67-23c6-49b6-b6ec-ad948454a279.png)
+
 
 | InfinityX | PixelOS (Style 1) | PixelOS (Style 2) |
 | --- | --- | --- |
