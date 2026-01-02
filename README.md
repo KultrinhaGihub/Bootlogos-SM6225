@@ -24,13 +24,13 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1762962128056-95b1fab8-57b8-4ca9-9441-f3e3566592d8.png) | ![logo](https://image2url.com/images/1762962139298-918f6e06-a940-4e65-8d89-7698f61c1db0.png) | ![logo](https://image2url.com/images/1762962165795-1147f30c-afa3-4ace-882d-ba742b03f724.png)
 
-| PixelOS (Style 3) | PixelOS (Style 4) | Hello UI |
+| PixelOS (Style 3) | PixelOS (Style 4) | Hello UI (Style 1) |
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1762962179558-85a372f9-9d92-4a96-a011-c6cfb92eb236.png) | ![logo](https://image2url.com/images/1762962185496-cdaf2e01-93b6-44d9-b97e-2eddf14fcf0f.png) | ![logo](https://github.com/user-attachments/assets/77904d61-e672-4faa-b443-ed054fd83ab2)
 
-| Derpfest | ArrowOS | Superior Extended |
+| Hello UI (Style 2) | ArrowOS | Superior Extended |
 | --- | --- | --- |
-| ![logo]() | ![logo](https://image2url.com/images/1764568817254-192aed60-2d4d-47cc-8ece-a8be5f2743c3.png) | ![logo](https://image2url.com/images/1764568855769-acb1b6d0-bbd0-4558-8eea-059d38a5751e.png) |
+| ![logo](https://github.com/user-attachments/assets/daad2a8d-8a9c-415e-a04c-c3386f72ed74) | ![logo](https://image2url.com/images/1764568817254-192aed60-2d4d-47cc-8ece-a8be5f2743c3.png) | ![logo](https://image2url.com/images/1764568855769-acb1b6d0-bbd0-4558-8eea-059d38a5751e.png) |
 
 | Project Sakura | AICP (Old) | AICP (New) |
 | --- | --- | --- |
