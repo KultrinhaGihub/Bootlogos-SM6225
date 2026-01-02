@@ -30,7 +30,7 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 
 | Derpfest | ArrowOS | Superior Extended |
 | --- | --- | --- |
-| ![logo](https://image2url.com/images/1764568745296-7faa4145-7edf-4989-90d9-c6f46ffae177.png) | ![logo](https://image2url.com/images/1764568817254-192aed60-2d4d-47cc-8ece-a8be5f2743c3.png) | ![logo](https://image2url.com/images/1764568855769-acb1b6d0-bbd0-4558-8eea-059d38a5751e.png) |
+| ![logo]() | ![logo](https://image2url.com/images/1764568817254-192aed60-2d4d-47cc-8ece-a8be5f2743c3.png) | ![logo](https://image2url.com/images/1764568855769-acb1b6d0-bbd0-4558-8eea-059d38a5751e.png) |
 
 | Project Sakura | AICP (Old) | AICP (New) |
 | --- | --- | --- |
@@ -52,9 +52,14 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1764760311282-1ed9b2fd-7ff9-4056-8392-567b4f6124f9.png) | ![logo](https://image2url.com/images/1764935114597-dde36762-850c-4d82-9e65-60c3a5a205cc.png) | ![logo](https://image2url.com/images/1764934921635-d2453018-f58b-426d-8dc4-1f389134184a.png) |
 
-| TheCloverProject |
-| --- |
-| ![logo](https://image2url.com/images/1764760435320-7091d624-5c7e-4043-a2a5-8531dd191df5.png) |
+| TheCloverProject | DerpFest | DroidX |
+| --- | --- | --- |
+| ![logo](https://image2url.com/images/1764760435320-7091d624-5c7e-4043-a2a5-8531dd191df5.png) | ![logo](https://image2url.com/images/1764568745296-7faa4145-7edf-4989-90d9-c6f46ffae177.png) | ![logo](https://image2url.com/r2/default/images/1767352569888-b7108fe9-a9f3-41ee-b460-3a8f93c6f326.png) |
+
+| GênesisOS (Style 1) | GênesisOS (Style 2) |
+| --- | --- |
+| ![logo](https://image2url.com/r2/default/images/1767352584365-b0669986-3ab1-4168-9a2d-3b944a0681e3.png) | ![logo](https://image2url.com/r2/default/images/1767352598373-ab822a2c-86de-4a69-b082-1e233d5169da.png) |
+
 
 
 # - Requirements -
