@@ -54,11 +54,11 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 
 | TheCloverProject | DerpFest | DroidX |
 | --- | --- | --- |
-| ![logo](https://image2url.com/images/1764760435320-7091d624-5c7e-4043-a2a5-8531dd191df5.png) | ![logo](https://image2url.com/images/1764568745296-7faa4145-7edf-4989-90d9-c6f46ffae177.png) | ![logo](https://image2url.com/r2/default/images/1767352569888-b7108fe9-a9f3-41ee-b460-3a8f93c6f326.png) |
+| ![logo](https://image2url.com/images/1764760435320-7091d624-5c7e-4043-a2a5-8531dd191df5.png) | ![logo](https://image2url.com/images/1764568745296-7faa4145-7edf-4989-90d9-c6f46ffae177.png) | ![logo](https://github.com/user-attachments/assets/761733a5-66de-405c-85b9-3ffab7d7198e) |
 
 | GênesisOS (Style 1) | GênesisOS (Style 2) |
 | --- | --- |
-| ![logo](https://image2url.com/r2/default/images/1767352584365-b0669986-3ab1-4168-9a2d-3b944a0681e3.png) | ![logo](https://image2url.com/r2/default/images/1767352598373-ab822a2c-86de-4a69-b082-1e233d5169da.png) |
+| ![logo](https://github.com/user-attachments/assets/daaeda1d-e895-49c5-a47d-31768ad894eb) | ![logo](https://github.com/user-attachments/assets/1b13b321-bb8f-4ab9-bf1a-93de99a8e001) |
 
 
 
