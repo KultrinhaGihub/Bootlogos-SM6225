@@ -5,7 +5,7 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 
 | LineageOS | Evolution X | CrDroid |
 | --- | --- | --- |
-|  ![logo](https://github.com/user-attachments/assets/9f4c6ac2-562a-435f-8dad-41ddcbad5326) | ![logo](https://github.com/user-attachments/assets/9bd757ff-f504-4423-9ebf-458ab2c33fb8) | ![logo](https://github.com/user-attachments/assets/ddaa3e07-ea1b-4232-a885-414879973634)
+|  ![logo](https://github.com/user-attachments/assets/9f4c6ac2-562a-435f-8dad-41ddcbad5326) | ![logo](https://github.com/user-attachments/assets/9bd757ff-f504-4423-9ebf-458ab2c33fb8) | ![logo](https://github.com/user-attachments/assets/ddaa3e07-ea1b-4232-a885-414879973634) |
 
 | Murena OS (/e/OS) | LMODroid | CalyxOS |
 | --- | --- | --- |
@@ -13,24 +13,25 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 
 | HyperOS (Style 1) | HyperOS (Style 2) | HyperOS (Style 3)
 | --- | --- | --- |
-| ![logo](https://image2url.com/images/1762823896187-05584179-21e9-4e11-9ca2-dd3cddf2038e.png) | ![logo](https://image2url.com/images/1762823888045-0de6fcd0-2e87-4d73-a4f9-37fcb1a5879c.png) | ![logo](https://image2url.com/images/1766412841404-d006ba0d-ec43-49a0-8881-5f9aaf74d5d8.png)
+| ![logo](https://image2url.com/images/1762823896187-05584179-21e9-4e11-9ca2-dd3cddf2038e.png) | ![logo](https://image2url.com/images/1762823888045-0de6fcd0-2e87-4d73-a4f9-37fcb1a5879c.png) | ![logo](https://image2url.com/images/1766412841404-d006ba0d-ec43-49a0-8881-5f9aaf74d5d8.png) |
 
 | HyperOS (Style 4) | HyperOS (Style 5) | AxionAOSP |
 | --- | --- | --- |
-| ![logo](https://image2url.com/images/1766412912046-649b6cca-52df-46de-b99b-0a0a3b9fa1c2.png) | ![logo](https://image2url.com/images/1766412961045-4590e37e-b4fd-42f7-b492-73dac86981cb.png) | ![logo](https://image2url.com/images/1762962119663-2ae90e67-23c6-49b6-b6ec-ad948454a279.png)
+| ![logo](https://image2url.com/images/1766412912046-649b6cca-52df-46de-b99b-0a0a3b9fa1c2.png) | ![logo](https://image2url.com/images/1766412961045-4590e37e-b4fd-42f7-b492-73dac86981cb.png) | ![logo](https://image2url.com/images/1762962119663-2ae90e67-23c6-49b6-b6ec-ad948454a279.png) |
 
 
 | InfinityX | PixelOS (Style 1) | PixelOS (Style 2) |
 | --- | --- | --- |
-| ![logo](https://image2url.com/images/1762962128056-95b1fab8-57b8-4ca9-9441-f3e3566592d8.png) | ![logo](https://image2url.com/images/1762962139298-918f6e06-a940-4e65-8d89-7698f61c1db0.png) | ![logo](https://image2url.com/images/1762962165795-1147f30c-afa3-4ace-882d-ba742b03f724.png)
+| ![logo](https://image2url.com/images/1762962128056-95b1fab8-57b8-4ca9-9441-f3e3566592d8.png) | ![logo](https://image2url.com/images/1762962139298-918f6e06-a940-4e65-8d89-7698f61c1db0.png) | ![logo](https://image2url.com/images/1762962165795-1147f30c-afa3-4ace-882d-ba742b03f724.png) |
 
-| PixelOS (Style 3) | PixelOS (Style 4) | Hello UI (Style 1) |
+| PixelOS (Style 3) | PixelOS (Style 4) | PixelOS (Style 5) |
 | --- | --- | --- |
-| ![logo](https://image2url.com/images/1762962179558-85a372f9-9d92-4a96-a011-c6cfb92eb236.png) | ![logo](https://image2url.com/images/1762962185496-cdaf2e01-93b6-44d9-b97e-2eddf14fcf0f.png) | ![logo](https://github.com/user-attachments/assets/77904d61-e672-4faa-b443-ed054fd83ab2)
+| ![logo](https://image2url.com/images/1762962179558-85a372f9-9d92-4a96-a011-c6cfb92eb236.png) | ![logo](https://image2url.com/images/1762962185496-cdaf2e01-93b6-44d9-b97e-2eddf14fcf0f.png) | ![logo](https://github.com/user-attachments/assets/7c9b8f4e-393f-45b1-b7f6-0248b69be6cd) |
 
-| Hello UI (Style 2) | ArrowOS | Superior Extended |
+
+| PixelOS (Style 6) | ArrowOS | Superior Extended |
 | --- | --- | --- |
-| ![logo](https://github.com/user-attachments/assets/daad2a8d-8a9c-415e-a04c-c3386f72ed74) | ![logo](https://image2url.com/images/1764568817254-192aed60-2d4d-47cc-8ece-a8be5f2743c3.png) | ![logo](https://image2url.com/images/1764568855769-acb1b6d0-bbd0-4558-8eea-059d38a5751e.png) |
+| ![logo](https://github.com/user-attachments/assets/709ead77-2ef5-4bb4-ac7e-b037483c040c) | ![logo](https://image2url.com/images/1764568817254-192aed60-2d4d-47cc-8ece-a8be5f2743c3.png) | ![logo](https://image2url.com/images/1764568855769-acb1b6d0-bbd0-4558-8eea-059d38a5751e.png) |
 
 | Project Sakura | AICP (Old) | AICP (New) |
 | --- | --- | --- |
@@ -56,10 +57,13 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | --- | --- | --- |
 | ![logo](https://image2url.com/images/1764760435320-7091d624-5c7e-4043-a2a5-8531dd191df5.png) | ![logo](https://image2url.com/images/1764568745296-7faa4145-7edf-4989-90d9-c6f46ffae177.png) | ![logo](https://github.com/user-attachments/assets/761733a5-66de-405c-85b9-3ffab7d7198e) |
 
-| GênesisOS (Style 1) | GênesisOS (Style 2) |
-| --- | --- |
-| ![logo](https://github.com/user-attachments/assets/daaeda1d-e895-49c5-a47d-31768ad894eb) | ![logo](https://github.com/user-attachments/assets/1b13b321-bb8f-4ab9-bf1a-93de99a8e001) |
+| GênesisOS (Style 1) | GênesisOS (Style 2) | OxygenOS (OnePlus logo style 1) |
+| --- | --- | --- |
+| ![logo](https://github.com/user-attachments/assets/daaeda1d-e895-49c5-a47d-31768ad894eb) | ![logo](https://github.com/user-attachments/assets/1b13b321-bb8f-4ab9-bf1a-93de99a8e001) | ![logo](https://github.com/user-attachments/assets/cb46b5f7-b979-4309-8796-de4da5ec6749) |
 
+| OxygenOS (OnePlus logo style 2) | Hello UI (Style 1) | Hello UI (Style 2) |
+| --- | --- | --- |
+| ![logo](https://github.com/user-attachments/assets/791fb57e-f5af-41cb-8b79-4f7d85be6d30) | ![logo](https://github.com/user-attachments/assets/77904d61-e672-4faa-b443-ed054fd83ab2) | ![logo](https://github.com/user-attachments/assets/daad2a8d-8a9c-415e-a04c-c3386f72ed74) |
 
 
 # - Requirements -
