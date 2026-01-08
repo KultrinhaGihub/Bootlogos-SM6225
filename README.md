@@ -61,10 +61,13 @@ For some reason, this has become a hobby. This is the Bootlogos repository for t
 | --- | --- | --- |
 | ![logo](https://github.com/user-attachments/assets/daaeda1d-e895-49c5-a47d-31768ad894eb) | ![logo](https://github.com/user-attachments/assets/1b13b321-bb8f-4ab9-bf1a-93de99a8e001) | ![logo](https://github.com/user-attachments/assets/cb46b5f7-b979-4309-8796-de4da5ec6749) |
 
-| OxygenOS (OnePlus logo style 2) | Hello UI (Style 1) | Hello UI (Style 2) |
+| OxygenOS (OnePlus logo style 2) | OxygenOS (Style 1,3) | OxygenOS (Style 2,4)
 | --- | --- | --- |
-| ![logo](https://github.com/user-attachments/assets/791fb57e-f5af-41cb-8b79-4f7d85be6d30) | ![logo](https://github.com/user-attachments/assets/77904d61-e672-4faa-b443-ed054fd83ab2) | ![logo](https://github.com/user-attachments/assets/daad2a8d-8a9c-415e-a04c-c3386f72ed74) |
+| ![logo](https://github.com/user-attachments/assets/791fb57e-f5af-41cb-8b79-4f7d85be6d30) | ![logo](https://github.com/user-attachments/assets/71ee25fe-b2c2-43e3-9426-62341c023054) | ![logo](https://github.com/user-attachments/assets/e451393d-1073-499f-9fd0-172739f7934c) |
 
+| Hello UI (Style 1) | Hello UI (Style 2) |
+| --- | --- |
+| ![logo](https://github.com/user-attachments/assets/77904d61-e672-4faa-b443-ed054fd83ab2) | ![logo](https://github.com/user-attachments/assets/daad2a8d-8a9c-415e-a04c-c3386f72ed74) |
 
 # - Requirements -
 - Unlocked Bootloader
